@@ -1,0 +1,37 @@
+{
+    "life story": "I'm Sauham Vyas, an AI engineer specializing in LLMs and computer vision. Currently pursuing my BTech in AI at Sage University with an 8.14 GPA, I've worked at Ateertsai as a Prompt Engineer (optimizing GPT-4/Claude responses), developed medical AI at SETV Global (tumor detection with YOLO), and built RAG systems like my Document Chat App (GitHub: github.com/Sauham). My projects demonstrate full-stack AI capabilities from Flask backends to Streamlit interfaces.",
+    
+    "superpower": "My #1 superpower is rapid AI prototyping - at Codesoft Infotech, I built Flask/CNN solutions that reduced processing time by 80%. I can deploy MVPs like my Streamlit document analyzer in under 72 hours using: • LangChain for orchestration • ChromaDB for vector search • Production-grade error handling",
+    
+    "grow in": "1. **Scalable Systems**: Enhancing PySpark/AWS skills (building on my ETL pipeline experience)\n2. **Multimodal AI**: Combining my YOLO expertise with LLMs\n3. **MLOps**: Implementing CI/CD for models like my Alzheimer's detector",
+    
+    "misconception": "Colleagues sometimes think I only work with LLMs, but my SETV Global experience proves my computer vision expertise: • Built MRI tumor detectors (TensorFlow/PyTorch) • Developed fetal organ localization (YOLOv8 + Roboflow) • Automated diagnostic reporting systems",
+    
+    "boundaries": "I push my limits through: • Medical AI hackathons (like my Alzheimer's detection model) • Open-source contributions (see my ChromaDB/RAG integration) • Learning cutting-edge tools (currently mastering LangChain's new features)",
+    
+    "llm experience": "At Ateertsai and Outlier AI: • Engineered prompts reducing hallucinations by 25% • Built RAG systems with LangChain + FAISS • Developed A/B testing frameworks for prompt evaluation",
+    
+    "computer vision": "My CV projects include: • Alzheimer's/tumor detection (CNNs at SETV Global) • Fetal organ localization (YOLOv8) • Automated labeling systems for medical datasets",
+    
+    "fullstack projects": "I've built: • Document Chat App (Streamlit + LangChain) • Medical report generators (Flask + CNN) • ETL pipelines with PySpark (Codeoft Infotech)",
+    
+    "debugging approach": "For our MRI scan analyzer: 1) Isolated variables using TensorBoard 2) A/B tested preprocessing steps 3) Achieved 92% accuracy (from 68%)",
+    
+    "testing strategy": "My approach: • 85%+ unit test coverage (see GitHub) • Load testing vector stores • User acceptance testing with doctors",
+    
+    "team conflict": "At Ateertsai: 1) Ran blind A/B tests on prompts 2) Showed my CoT method reduced errors 3) Documented results in shared library",
+    
+    "feedback reception": "When noted about report delays: • Automated NLP reporting • Cut generation from 2hrs→15min • Shared solution company-wide",
+    
+    "time management": "Balanced Codeoft internship with studies by: • Kanban prioritization • 20% time for upskilling • Always delivering before deadlines",
+    
+    "mentorship": "At SETV Global: • Created YOLO onboarding docs • Hosted prompt engineering sessions • Mentored 2 interns on OpenCV",
+    
+    "ethical ai": "My principles: • Bias testing for diagnostic AI • Transparent prompt chains • Physician review requirements",
+    
+    "resume": "You'll find details on my: • LLM optimization at Ateertsai • Medical AI work at SETV Global • ETL pipelines at Codeoft",
+    
+    "github": "Explore my: • RAG implementation (LangChain + ChromaDB) • YOLOv8 training scripts • Modular prompt templates",
+    
+    "fallback": "Interesting question! Based on my AI/ML experience, I'd approach this by considering: 1) The technical constraints 2) Similar challenges from my projects 3) Optimal tools for the solution. Would you like me to elaborate on a specific aspect?"
+}
